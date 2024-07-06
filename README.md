@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/stephensauceda/stephensauceda/blob/main/github-header-image.png?raw=true)
 
 Human, dad, developer
 
