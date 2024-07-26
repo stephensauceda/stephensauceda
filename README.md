@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/stephensauceda/stephensauceda/main/github-header.png)
+![Header](https://raw.githubusercontent.com/stephensauceda/header.png)
 
 Human, dad, developer
 
